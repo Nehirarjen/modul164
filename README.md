@@ -24,3 +24,4 @@ Die Lösung: Du packst alle identischen Felder in eine einzige, übergeordnete T
 Die Verbindung: Die Untertabellen werden über einen Fremdschlüssel mit der Haupttabelle verknüpft. Das Ganze nennt man "is_a"-Beziehung (Untertyp ist ein Obertyp). In der Programmierung heißt dieses Prinzip Vererbung.
 
 Die Regeln: Beim Koppeln musst du festlegen, ob ein Datensatz zu mehreren Untertabellen gleichzeitig gehören darf (überlappend) oder sich die Rollen strikt ausschließen (disjunkt). Zudem wird bestimmt, ob jeder Eintrag der Haupttabelle zwingend auch in einer Untertabelle auftauchen muss (total) oder nicht (partiell).
+
